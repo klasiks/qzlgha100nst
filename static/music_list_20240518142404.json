@@ -1,0 +1,141 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "da47b93920b0dbd7508f04d6ca607241",
+                "name": "5",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 5.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/5.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "da47b93920b0dbd7508f04d6ca607241",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "f1326e9f0a30f09248724fcb2fbb9125",
+                "name": "3",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 3.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "f1326e9f0a30f09248724fcb2fbb9125",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "5f228c0d55f44e25c934b5532bfecc3e",
+                "name": "10",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 10.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/10.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "5f228c0d55f44e25c934b5532bfecc3e",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "176f63b1546efec0f8a3b027ca6cb47e",
+                "name": "2",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 2.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "176f63b1546efec0f8a3b027ca6cb47e",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "65c40c3d59196b853625455be0e1025c",
+                "name": "4",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 4.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "65c40c3d59196b853625455be0e1025c",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "321fb37097d45113ab93f2aa6ecfbe6f",
+                "name": "8",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 8.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/8.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "321fb37097d45113ab93f2aa6ecfbe6f",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "eb33f1cf3cae6d95e5aaf0a95b996a44",
+                "name": "9",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 9.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/9.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "eb33f1cf3cae6d95e5aaf0a95b996a44",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "51a2aaa6b831ce2f736ba536befa7ec7",
+                "name": "1",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 1.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "51a2aaa6b831ce2f736ba536befa7ec7",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "40eb82f86cb0732ecc05fe6046cc9176",
+                "name": "6",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 6.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/6.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "40eb82f86cb0732ecc05fe6046cc9176",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "3d56a32391655adbe69a3046d0a8e015",
+                "name": "7",
+                "artist": "ئاۋازلىق ئەسەر Awazliq Eser",
+                "album": "قىزلارغا 100 نەسىھەت 7.قىسىم  ئاۋازلىق ئەسەر",
+                "url": "static/Qizlargha 100 Nesiyet/7.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3d56a32391655adbe69a3046d0a8e015",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
